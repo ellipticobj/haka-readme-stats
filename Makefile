@@ -4,7 +4,7 @@
 
 PATH := venv/bin:$(PATH)
 
-ENV = .env.example
+ENV = .env
 include $(ENV)
 
 
